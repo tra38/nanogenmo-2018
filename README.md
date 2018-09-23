@@ -8,3 +8,6 @@ Novella Length, With Citations: 12,382 words
 At the end of the novella, I added some 'meows' to increase my word count to >50K, thereby qualifying this as a NaNoGenMo novel (though one that was not done in November).
 
 Novella Length, Including Junk Meows: 62,393 words
+
+## License Info
+Code is licensed under MIT. Novel is licensed under [CC-BY-SA, version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
