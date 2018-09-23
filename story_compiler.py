@@ -78,6 +78,13 @@ all_paragraphs = starting_paragraphs + middle_paragraphs + ending_paragraphs
 for passage in all_paragraphs:
   write_to_novel(generate_citation(passage))
 
+write_to_novel("Manual Citation:")
+write_to_novel(generate_citation({
+    "quote": "Book of Azathoth, the Book of Eibon, the Book of Iod, the Celaeno Fragments, the Cultes des Goules, De Vermis Mysteriis, the Dhol Chants, the Eltdown Shards, the G'harne Fragments, the King in Yellow, the Libre Ivonis, the Necronomicon, On the Sending Out of Souls, the Parchments of Pnom, the Pnakotic Manuscripts, the Poakotic Fragments, the Ponape Scripture, Las Reglas de Ruina, the Relevations of Gla'aki, the Seven Cryptical Books of Hsna, the Tarsioid Psalms, the Moloch Diaries, the Testaments of Carnamagos, the Unaussprechilche Kulte, the Zanthu Tablets, the Zhou Texts, the Structure and Interpretation of Computer Programs, and Artificial Intelligence: A Modern Approach",
+    "original_quote": "Book of Azathoth, the Book of Eibon, the Book of Iod, the Celaeno Fragments, the Cultes des Goules, De Vermis Mysteriis, the Dhol Chants, the Eltdown Shards, the G'harne Fragments, the King in Yellow, the Libre Ivonis, the Necronomicon, On the Sending Out of Souls, the Parchments of Pnom, the Pnakotic Manuscripts, the Poakotic Fragments, the Ponape Scripture, Las Reglas de Ruina, the Relevations of Gla'aki, the Seven Cryptical Books of Hsna, the Tarsioid Psalms, the Testaments of Carnamagos, the Unaussprechilche Kulte, the Zanthu Tablets, the Zhou Texts",
+    "source": "https://github.com/NaNoGenMo/2016/issues/12",
+    "license": "Copyrighted text, used under a 'fair use' defense",
+    "license_url": "https://en.wikiquote.org/wiki/Wikiquote:Copyrights#Copyrights_and_quotations"}))
 # And just a little wrapup to meet word counts
 
 write_to_novel("---")
