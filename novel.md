@@ -44,7 +44,7 @@ And here's my pitful reply: Because my memior tells you how The Computer crashes
 
 The Sierra Club continued to gain recruits, trying to lure away some of our FCCC-Pers into their outputs in the Outdoors. To let Kuno gain more followers to their infidel cause would be intolerable, to lose followers of our own would be a disgrace. Enicharmon-U asked me to do something about it, but I have already vowed to do so. I planned on giving a great lecture to all loyal FCCC-Pers, to finally refute the Sierra Club fallacy once and for all.
 
-The first thing I did was show the foolishness of visiting the surface of the earth.  Airplanes might be necessary, but what was the good of going out for mere curiosity and crawling along for a mile or two in a terrestrial motor? The habit was vulgar and perhaps faintly improper: it was unproductive of ideas, and had no connection with the habits that really mattered.
+The first thing I did was show the foolishness of visiting the surface of the earth.  Air-ships might be necessary, but what was the good of going out for mere curiosity and crawling along for a mile or two in a terrestrial motor? The habit was vulgar and perhaps faintly improper: it was unproductive of ideas, and had no connection with the habits that really mattered.
 
 True, there were many ideas that were extracted from the Outdoors, of course, but these ideas could be recovered fairly easily without having to brave cruel, uncaring nature. Those who still wanted to know what the earth was like had after all only to listen to some podcast, or to watch some movie. Even a lecture on the sea was just as stimulating when compiled out of other lectures that was delivered on the same subjects.
 
@@ -114,7 +114,7 @@ The three stars in the middle are like the belts that men wore once, and the thr
 
 'It does not strike me as a very good idea, but it is certainly original. When did it come to you first?'
 
-'In the air-ship--' He broke off an I fancied that he looked sad. I could not be sure, for the jury-rigged system we built did not transmit nuances of expression. It only gave a general idea of people – an idea that was good enough for all practical purposes (and nobody cares about the impractical purposes).
+'In the air-ship--' He broke off an I fancied that he looked sad. I could not be sure, for the jury-rigged system we use did not transmit nuances of expression. It only gave a general idea of people – an idea that was good enough for all practical purposes (and nobody cares about the impractical purposes).
 
 'The truth is,' he continued, 'that I want humanity to see these stars again. They are curious stars. I want humans to see them not from the air-ship, but from the surface of the earth, as our ancestors did, thousands of years ago. I want you to visit the surface of the earth, to see for yourself the joy that we are missing when we seal ourselves into this prison we call Alpha Complex.' I was shocked again.
 
