@@ -1,5 +1,5 @@
 # nanogenmo-2018
-A computer program intended to generate the novella "The Computer Crashes".
+A computer program intended to generate the novella "The Computer Crashes". Here are [my notes](https://gist.github.com/tra38/3e609536ff8e0fa51710e63ce9cdc3c6) on this text-generation project.
 
 Novella Length, Without Citations: 11,995 words
 
