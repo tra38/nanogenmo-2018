@@ -85,6 +85,7 @@ write_to_novel(generate_citation({
     "source": "https://github.com/NaNoGenMo/2016/issues/12",
     "license": "Copyrighted text, used under a 'fair use' defense",
     "license_url": "https://en.wikiquote.org/wiki/Wikiquote:Copyrights#Copyrights_and_quotations"}))
+
 # And just a little wrapup to meet word counts
 
 write_to_novel("---")
